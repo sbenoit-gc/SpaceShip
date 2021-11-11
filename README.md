@@ -1,7 +1,7 @@
 # Project Name SpaceShip, a flying demo
 <img src="Saved/AutoScreenshot.png" align="right" />
 
-Sample project based on Unreal Engine's Flying template. Used for the in class demo.
+Sample project based on Unreal Engine's Flying template. Used for the in class demo on Nov 4th.
 
 ## Usage
 
